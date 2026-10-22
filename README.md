@@ -1,9 +1,9 @@
-# Metro Messaging
+# Metro 10 Messaging
 
 An open-source Android messaging app that recreates the **Windows 10 Mobile**
 Messaging experience — a clean conversation list, the classic chat thread
 layout, and the 20-color accent palette — as a companion to
-[Metro Launcher](https://github.com/iRockaNaNa/metro-launcher).
+[Metro 10 Launcher](https://github.com/iRockaNaNa/metro-10-launcher).
 
 > **Design reference:** the Windows 10 Mobile Messaging app. The MetroV suite
 > (by Tuan Nguyen) proves the companion-app model on Android, but MetroV is
@@ -23,7 +23,7 @@ style with sample data. Real SMS support is the first roadmap milestone.
 - **Chat threads** — the classic Windows 10 Mobile thread view
 - **Real SMS/MMS** — threads read from the Android Telephony provider
 - **Send & receive** — including becoming the default SMS app
-- **Accent sync** — match the Metro Launcher accent palette
+- **Accent sync** — match the Metro 10 Launcher accent palette
 
 ## Roadmap
 
@@ -32,9 +32,9 @@ style with sample data. Real SMS support is the first roadmap milestone.
 - [ ] Read real SMS threads (Telephony provider)
 - [ ] Send SMS
 - [ ] Default SMS app role + notifications
-- [ ] Accent color sync with Metro Launcher
+- [ ] Accent color sync with Metro 10 Launcher
 
 ## Tech
 
 Kotlin + Jetpack Compose (Material3), minSdk 29, targetSdk 34 — the same
-stack as Metro Launcher.
+stack as Metro 10 Launcher.

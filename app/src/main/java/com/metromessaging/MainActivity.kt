@@ -28,7 +28,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
 /**
- * Metro Messaging — a Windows 10 Mobile-style SMS app for Android.
+ * Metro 10 Messaging — a Windows 10 Mobile-style SMS app for Android.
  *
  * Scaffold state: the conversation list renders sample data in the
  * Windows 10 Mobile Messaging layout (big lowercase title, square contact
@@ -36,7 +36,7 @@ import androidx.compose.ui.unit.sp
  * the Telephony provider milestone on the roadmap.
  */
 
-// The classic Windows 10 Mobile accent. Will sync with the Metro Launcher
+// The classic Windows 10 Mobile accent. Will sync with the Metro 10 Launcher
 // accent palette once the two apps share settings.
 private val MetroAccent = Color(0xFF0078D7)
 private val MetroBackground = Color(0xFF000000)

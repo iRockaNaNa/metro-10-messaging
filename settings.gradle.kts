@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Metro Messaging"
+rootProject.name = "Metro 10 Messaging"
 include(":app")
